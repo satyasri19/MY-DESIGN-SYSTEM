@@ -69,7 +69,3 @@ src/
 ## Contributing
 
 Contributions are welcome. Please follow the existing code style and ensure accessibility and responsiveness in new components.
-
-## License
-
-This project is licensed under the MIT License.
